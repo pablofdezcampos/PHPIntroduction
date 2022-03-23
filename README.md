@@ -9,7 +9,7 @@
 # Project Structure
 - We have a CSS folder with the styles and a folder call includes with the header and footer component.
 - List of the .php files:
-- 01-hello-world.php
+- 01-hello-world.php:
             - Learn how to print our first ***Hello World*** in PHP.
 # Requeriments
 - To understand this introduction to PHP you must have a minimun knowledges of any other programming languaje.
