@@ -14,7 +14,7 @@
 - 02-variables.php:
     - Introduction to the variables in php.
 - 03-types-of-dates.php:
-    - 
+    - pi
 # Requeriments
 - To understand this introduction to PHP you must have a minimun knowledges of any other programming languaje.
 # Use 
