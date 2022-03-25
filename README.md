@@ -11,6 +11,10 @@
 - List of the .php files:
 - 01-hello-world.php:
     - Learn how to print our first ***Hello World*** in PHP.
+- 02-variables.php:
+    - Introduction to the variables in php.
+- 03-types-of-dates.php:
+    - 
 # Requeriments
 - To understand this introduction to PHP you must have a minimun knowledges of any other programming languaje.
 # Use 
