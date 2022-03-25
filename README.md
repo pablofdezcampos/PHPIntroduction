@@ -57,7 +57,8 @@
 - To understand this introduction to PHP you must have a minimun knowledges of any other programming languaje.
 # Use 
 - The project is structured in folder with the relevant contents of the tutorial.
-- To see the result of a content, you must uncomment one of the section. Later, go to the console of a browser (to run the project you can use PHPServer for example).
-- To go to the console of a browser press f12 or control + shift + i, to see the inspector.
+- To see the result of a content, launch the code and see the result in the browser.(to run the project you can use PHPServer for example).
+- The information is index in the fronted.
 - Example:
 
+![image](https://user-images.githubusercontent.com/57486874/160133507-c0aea784-6b53-4842-bacf-41bf8e01bff6.png)
