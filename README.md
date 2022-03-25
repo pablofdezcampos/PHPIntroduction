@@ -57,7 +57,7 @@
 - To understand this introduction to PHP you must have a minimun knowledges of any other programming languaje.
 # Use 
 - The project is structured in folder with the relevant contents of the tutorial.
-- To see the result of a content, launch the code and see the result in the browser.(to run the project you can use *PHPServer* for example).
+- To see the result of a content, launch the code and see the result in the browser.(to run the project you can use **PHPServer* for example).
 - The information is index in the fronted.
 - Example:
 
