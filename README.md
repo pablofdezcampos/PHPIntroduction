@@ -57,6 +57,7 @@
 - To understand this introduction to PHP you must have a minimun knowledges of any other programming languaje.
 # Use 
 - The project is structured in folder with the relevant contents of the tutorial.
-- To see the result of a content, you must uncomment one of the section. Later, go to the console of a browser (to run the project you can use LifeServer for example).
+- To see the result of a content, you must uncomment one of the section. Later, go to the console of a browser (to run the project you can use PHPServer for example).
 - To go to the console of a browser press f12 or control + shift + i, to see the inspector.
 - Example:
+
